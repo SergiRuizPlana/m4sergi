@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title> WOMEN AFAIR RSS </title>
+        <link> index.html</link>
+        <description>Noticies d'actualitat</description>
+        <item>
+            <title> NOTICIA: "La evolució femenina als alts càrrecs"</title>
+            <link>link de la pagina</link>
+            <description>Un estudi del prestigiós medi britànic BBC col·loca Catalunya a la cima 
+                europea en l'evolució de la igualtat entre homes i dones ocupant càrrecs 
+                directius tant en l'àmbit públic com en el privat.</description>
+            <guid>Dona a l'empresa privada</guid>
+        </item>
+        <item>
+            <title> OPINIÓ: "Dones i política: Igualtat real?" </title>
+            <link></link>
+            <description>Malgrat ser un món molt masculí, cada cop més 
+                dones lideren partits i institucions i s’enfronten a les dificultats i als tics del passat</description>
+            <guid>Opinió dona a la política</guid>
+        </item>
+    </channel>
+</rss>
