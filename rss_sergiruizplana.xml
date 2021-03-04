@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
     <channel>
-        <title> WOMEN AFAIR RSS </title>
+        <title> TECH AFAIR RSS </title>
         <link>https://sergiruizplana.github.io/m4sergi/</link>
-        <description>Noticies d'actualitat</description>
+        <description>Noticies d'actualitat informàtica</description>
         <item>
             <title> NOTICIA: "Apple pot haver originat la caiguda de l’imperi d’Intel a la informàtica?"</title>
-            <link>link de la pagina</link>
+            <link>https://noticiesm4sergi.000webhostapp.com/</link>
             <description>El nou xip per a ordinadors personals dels californians sorprèn els experts i
                 posa en qüestió el futur d’Intel · Més fabricants comencen a passar als xips ARM.</description>
             <guid>Apple</guid>
         </item>
         <item>
             <title> NOTICIA: "D’Olot a Silicon Valley: la història d’èxit d’Anna Navarro, la dona més influent en el món tecnològic" </title>
-            <link></link>
+            <link>https://sruizm4.000webhostapp.com/</link>
             <description>Ha estat premiada per la revista Analytics Insight com la dona més influent en el món de la tecnologia</description>
             <guid>Anna Navarro</guid>
         </item>
         <item>
             <title> NOTICIA: "Chromebooks, l’alternativa econòmica per a la informàtica diària" </title>
-            <link></link>
+            <link>https://sm4ruiz.000webhostapp.com/</link>
             <description>LA països com els EUA, els chromebooks representen el 60% de les compres d’ordinadors de les escoles.</description>
             <guid>Chromebooks</guid>
         </item>
